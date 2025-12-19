@@ -10,7 +10,7 @@ A collection of real-world data analysis projects using SQL, Python, Excel, and 
   Data cleaning and analysis of a global layoffs dataset using SQL, demonstrating structured data preparation and analysis-ready outputs.
 
 
-##Excel project
+## Excel project
 
 *Excel Dashboard creation - https://github.com/Adharsh-V/Excel-sales-dashboard.git
 
