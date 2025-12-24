@@ -19,6 +19,6 @@ An interactive Excel dashboard built using macros, slicers, checkboxes, pivot ta
 
 ## PowerBI Project 
 
-*PowerBI Performance Dashboard - 
+*PowerBI Performance Dashboard - https://github.com/Adharsh-V/PowerBI-Dashboard.git
 
 This live Power BI report allows users to interact with the dashboard using filters, slicers, and drill-down features to explore revenue, profit, customer, product, and regional performance.
