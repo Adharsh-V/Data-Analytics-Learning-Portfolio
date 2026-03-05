@@ -2,6 +2,11 @@
 
 A collection of real-world data analysis projects using SQL, Python, Excel, and Power BI. Includes data cleaning, exploratory data analysis (EDA), and insights for business decision-making.
 
+## END-TO-END project
+
+* Customer Sales Behaviour Analysis - https://github.com/Adharsh-V/Customer_Behaviour_Analysis
+
+  Performed data cleaning using Pandas,answered business questions using SQL,created dashboard in PowerBI,created business reports and PPT for presentation.
 
 ## SQL Projects
 
