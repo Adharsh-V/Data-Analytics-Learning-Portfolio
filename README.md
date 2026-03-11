@@ -10,7 +10,7 @@ A collection of real-world data analysis projects using SQL, Python, Excel, and 
   
 ## Sales-Analysis
 
-Sales Analysis project -
+Sales Analysis project - https://github.com/Adharsh-V/Sales-Analysis
 * Designed and delivered a dynamic Sales Analytics Dashboard in Power BI with advanced 
 time intelligence and parameter-driven filtering (last N days/months). 
 
