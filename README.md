@@ -7,6 +7,13 @@ A collection of real-world data analysis projects using SQL, Python, Excel, and 
 * Customer Sales Behaviour Analysis - https://github.com/Adharsh-V/Customer_Behaviour_Analysis
 
   Performed data cleaning using Pandas,answered business questions using SQL,created dashboard in PowerBI,created business reports and PPT for presentation.
+  
+## Sales-Analysis
+
+Sales Analysis project -
+* Designed and delivered a dynamic Sales Analytics Dashboard in Power BI with advanced 
+time intelligence and parameter-driven filtering (last N days/months). 
+
 
 ## SQL Projects
 
