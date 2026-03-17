@@ -15,7 +15,7 @@ A collection of real-world data analysis projects using SQL, Python, Excel, and 
 time intelligence and parameter-driven filtering (last N days/months). 
 
 ## Banking Customer Analysis
-**Banking Customer Analysis -**
+**Banking Customer Analysis -https://github.com/Adharsh-V/Banking_EDA_Project**
 * Built a data analytics solution using SQL, Python, and Power BI to clean, transform, and analyze customer data, delivering actionable insights through an interactive dashboard.
 
 ## SQL Projects
