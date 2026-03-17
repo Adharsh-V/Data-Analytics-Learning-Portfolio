@@ -10,30 +10,30 @@ A collection of real-world data analysis projects using SQL, Python, Excel, and 
   
 ## Sales-Analysis
 
-Sales Analysis project - https://github.com/Adharsh-V/Sales-Analysis
+**Sales Analysis project - https://github.com/Adharsh-V/Sales-Analysis**
 * Designed and delivered a dynamic Sales Analytics Dashboard in Power BI with advanced 
 time intelligence and parameter-driven filtering (last N days/months). 
 
 ## Banking Customer Analysis
-Banking Customer Analysis -
-* 
+**Banking Customer Analysis -**
+* Built a data analytics solution using SQL, Python, and Power BI to clean, transform, and analyze customer data, delivering actionable insights through an interactive dashboard.
 
 ## SQL Projects
 
-* SQL Layoffs Analysis -   https://github.com/Adharsh-V/SQL-Layoffs-Analysis
+**SQL Layoffs Analysis -   https://github.com/Adharsh-V/SQL-Layoffs-Analysis**
 
   Data cleaning and analysis of a global layoffs dataset using SQL, demonstrating structured data preparation and analysis-ready outputs.
 
 
 ## Excel Project
 
-*Excel Dashboard creation - https://github.com/Adharsh-V/Excel-sales-dashboard.git
+**Excel Dashboard creation - https://github.com/Adharsh-V/Excel-sales-dashboard.git**
 
 An interactive Excel dashboard built using macros, slicers, checkboxes, pivot tables, and multiple chart types to analyze and visualize sales data in a single workbook.
 
 
 ## PowerBI Project 
 
-*PowerBI Performance Dashboard - https://github.com/Adharsh-V/PowerBI-Dashboard.git
+**PowerBI Performance Dashboard - https://github.com/Adharsh-V/PowerBI-Dashboard.git**
 
 This live Power BI report allows users to interact with the dashboard using filters, slicers, and drill-down features to explore revenue, profit, customer, product, and regional performance.
