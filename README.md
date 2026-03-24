@@ -18,7 +18,7 @@ time intelligence and parameter-driven filtering (last N days/months).
 **Banking Customer Analysis -https://github.com/Adharsh-V/Banking_EDA_Project**
 * Built a data analytics solution using SQL, Python, and Power BI to clean, transform, and analyze customer data, delivering actionable insights through an interactive dashboard.
 
-## Car Rental Analysis - 
+## Car Rental Analysis 
 **Car Rental Analysis Project -  https://github.com/Adharsh-V/CAR-RENTAL-ANALYSIS**
 * End-to-end data analytics project covering MySQL data cleaning, SQL analysis, and interactive Power BI dashboard for a car rental business dataset.
 
